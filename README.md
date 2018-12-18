@@ -8,4 +8,4 @@ This project was using jupyter notebook, analyzing the top 10 high frequency wor
 
 And also doing the visulization of it.
 
-All the data were in the dataset folder and the code was in Fianl_project.ipynb
+All the data were in the "datasets" folder and the code was in "Fianl_project.ipynb".
