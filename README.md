@@ -7,3 +7,5 @@ The data was from https://archive.ics.uci.edu/ml/machine-learning-databases/0043
 This project was using jupyter notebook, analyzing the top 10 high frequency words from all data.
 
 And also doing the visulization of it.
+
+All the data were in the dataset folder and the code was in Fianl_project.ipynb
